@@ -10,6 +10,6 @@
     <repository><![CDATA[https://github.com/dszrek/moek_editor]]></repository>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
-    <icon>moek_stopka.gif</icon>    
+    <icon>MOEK_stopka.gif</icon>    
   </pyqgis_plugin>
 </plugins>
