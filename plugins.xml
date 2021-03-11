@@ -1,5 +1,5 @@
 <plugins>
-  <pyqgis_plugin name="Moek Editor" version="0.2.1">
+  <pyqgis_plugin name="Moek_Editor" version="0.2.1">
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <qgis_maximum_version>3.99.0</qgis_maximum_version>
     <download_url>https://github.com/dszrek/moek_editor/archive/v.0.2.1.zip</download_url>
@@ -10,6 +10,6 @@
     <repository><![CDATA[https://github.com/dszrek/moek_editor]]></repository>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
-    <icon>moek_logo.png</icon>    
+    <icon>moek_logo.jpg</icon>    
   </pyqgis_plugin>
 </plugins>
