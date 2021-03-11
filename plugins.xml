@@ -6,6 +6,8 @@
     <version>0.2.1</version>
     <description><![CDATA[Wtyczka QGIS przeznaczona dla wykonawców Monitoringu Odkrywkowej Eksploatacji Kopalin prowadzonego w Państwowym Instytucie Geologicznym – Państwowym Instytucie Badawczym (PIG-PIB).]]></description>
     <author_name><![CDATA[Dominik Szrek]]></author_name>
+    <tracker><![CDATA[https://github.com/dszrek/moek_editor/issues]]></tracker>
+    <repository><![CDATA[https://github.com/dszrek/moek_editor]]></repository>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
     <icon>MOEK_logo.png</icon>    
