@@ -6,7 +6,7 @@
     <version>0.2.1</version>
     <download_url>https://github.com/dszrek/moek_editor/archive/v.0.2.1.zip</download_url>
     <author_name><![CDATA[Dominik Szrek]]></author_name>
-    <experimental>True</experimental>
+    <experimental>False</experimental>
     <deprecated>False</deprecated>
     <icon>https://github.com/dszrek/moek_editor/blob/master/icon.png</icon>    
   </pyqgis_plugin>
