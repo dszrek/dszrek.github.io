@@ -8,6 +8,6 @@
     <author_name><![CDATA[Dominik Szrek]]></author_name>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
-    <icon>https://github.com/dszrek/moek_editor/blob/master/icon.png</icon>    
+    <icon>/raw/master/MOEK_logo.png</icon>    
   </pyqgis_plugin>
 </plugins>
