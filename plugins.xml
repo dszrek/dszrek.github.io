@@ -1,0 +1,7 @@
+<plugins>
+  <pyqgis_plugin name="Moek Editor" version="0.2">
+    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+    <download_url>https://github.com/dszrek/moek_editor/archive/v.0.2.zip</download_url>
+  </pyqgis_plugin>
+</plugins>
+    
