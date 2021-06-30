@@ -1,9 +1,9 @@
 <plugins>
-  <pyqgis_plugin name="Moek_Editor" version="0.3.0">
+  <pyqgis_plugin name="Moek_Editor" version="0.4.0">
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <qgis_maximum_version>3.99.0</qgis_maximum_version>
-    <download_url>https://dszrek.github.io/moek_editor/moek_editor.0.3.0.zip</download_url>
-    <version>0.3.0</version>
+    <download_url>https://dszrek.github.io/moek_editor/moek_editor.0.4.0.zip</download_url>
+    <version>0.4.0</version>
     <description><![CDATA[Wtyczka QGIS przeznaczona dla wykonawców Monitoringu Odkrywkowej Eksploatacji Kopalin prowadzonego w Państwowym Instytucie Geologicznym – Państwowym Instytucie Badawczym (PIG-PIB).]]></description>
     <author_name><![CDATA[Dominik Szrek]]></author_name>
     <tracker><![CDATA[https://github.com/dszrek/moek_editor/issues]]></tracker>
