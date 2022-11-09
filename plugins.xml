@@ -1,9 +1,9 @@
 <plugins>
-  <pyqgis_plugin name="NAG_ArchMap" version="0.3.0">
-    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+  <pyqgis_plugin name="NAG_ArchMap" version="0.4.0">
+    <qgis_minimum_version>3.16.0</qgis_minimum_version>
     <qgis_maximum_version>3.99.0</qgis_maximum_version>
-    <download_url>https://dszrek.github.io/NAG_ArchMap/nag_archmap.0.3.0.zip</download_url>
-    <version>0.3.0</version>
+    <download_url>https://dszrek.github.io/NAG_ArchMap/nag_archmap.0.4.0.zip</download_url>
+    <version>0.4.0</version>
     <description><![CDATA[Wtyczka umożliwia załadowanie do otwartego projektu QGIS rastrowych warstw ze skanami map (.jpg z georeferencjami w układzie PL-1992), które stanowią załączniki do dokumentacji złożowych, zgromadzonych w repozytorium sieciowym Narodowego Archiwum Geologicznego PIG-PIB.]]></description>
     <author_name><![CDATA[Dominik Szrek]]></author_name>
     <tracker><![CDATA[https://github.com/dszrek/NAG_ArchMap/issues]]></tracker>
